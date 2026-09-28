@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+model/*.h5
+runs/
+checkpoints/
+*.pt
+*.pkl
+.env
+venv/
+.venv/
